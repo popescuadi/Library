@@ -1,0 +1,14 @@
+1/14/2017 5:46:04 PM
+192.168.100.2 Operatie de : login login
+192.168.100.2 Operatie de : users success
+192.168.100.2 Operatie de : books success
+192.168.100.2 Operatie de : user success
+192.168.100.2 Operatie de : return False
+192.168.100.2 Operatie de : user success
+192.168.100.2 Operatie de : user success
+client Operatie de : web C# for Dumies | Andrew Tanenbaum | 12/18/2016 12:00:00 AM / The Alchimist | Edward Erlic | 12/18/2016 12:00:00 AM / Cosmos | Neil DeGrase | 12/18/2016 12:00:00 AM / 
+client Operatie de : web true
+192.168.100.2 Operatie de : login login
+192.168.100.2 Operatie de : users success
+192.168.100.2 Operatie de : books success
+client Operatie de : web Java:Begginer Guide | Popescu Adrian | 1/14/2017 12:00:00 AM / Barbarian | Cesar Gauderius | 1/14/2017 12:00:00 AM / 
